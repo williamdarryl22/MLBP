@@ -1,2 +1,2 @@
 # MLBP
-MY ML BUSINESS PROJECT
+This project is a Streamlit-based web application designed to assess cardiovascular disease risks and identify potential specific diseases based on user-provided health parameters. The application integrates a pre-trained machine learning model to predict general risks and includes logic for detecting specific conditions such as angina, ischemia, arrhythmia, and hypertension. Recommendations are provided for each condition, and users have the option to save their data for future research. This project showcases a practical implementation of predictive analytics in healthcare.
